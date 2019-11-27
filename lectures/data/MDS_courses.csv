@@ -1,0 +1,25 @@
+course_number,course_title,slug,block,primary_lang,lab_days
+511,Programming for Data Science,prog-dsci,1,both,WR
+521,Computing Platforms for Data Science,platforms-dsci,1,both,MT
+542,Communication and Argumentation,comm-arg,1,none,WR
+551,Descriptive Statistics and Probability for Data Science,stat-prob-dsci,1,none,MT
+512,Algorithms and Data Structures,alg-data-struct,2,python,WR
+523,Data Wrangling,data-wrangling,2,R,WR
+531,Data Visualization I,viz-1,2,R,MT
+552,Statistical Inference and Computation I,stat-inf-1,2,R,MT
+513,Databases and Data Retrieval,database-data-retr,3,both,WR
+522,Data Science Workflows,dsci-workflows,4,R,WR
+561,Regression I,regr-1,3,R,MT
+571,Supervised Learning I,sup-learn-1,3,python,MT
+532,Data Visualization II,viz-2,3,both,WR
+562,Regression II,regr-2,4,R,MT
+563,Unsupervised Learning,unsup-learn,5,both,MT
+573,Feature and Model Selection,feat-model-select,4,python,WR
+524,Collaborative Software Development,collab-sw-dev,5,both,MT
+541,"Privacy, Ethics, and Security",priv-eth-sec,6,none,WR
+553,Statistical Inference and Computation II,stat-inf-2,5,R,WR
+572,Supervised Learning II,sup-learn-2,4,python,MT
+525,Web and Cloud Computing,web-cloud-comp,6,python,WR
+554,Experimentation and Causal Inference,exper-causal-inf,6,R,MT
+574,Spatial and Temporal Models,spat-temp-mod,5,R,WR
+575,Advanced Machine Learning,adv-mach-learn,6,python,MT

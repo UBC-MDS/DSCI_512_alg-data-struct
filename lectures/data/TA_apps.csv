@@ -1,0 +1,11 @@
+name,availability,R_proficiency,python_proficiency,can_teach,enthusiastic
+Alice,MT,competent,expert,"542,551,552","511,571,513"
+Bob,MTWR,competent,none,"551,523,531,552,561","551,523,561"
+Carol,M,expert,expert,"542,551,523,552,571","551,552,571"
+Chuck,MW,expert,beginner,"511,551,531,561","521,542,523"
+Dan,MTR,expert,expert,"511,521,512,552,532","521,512,552"
+Erin,R,expert,expert,"512,532,513","512,513"
+Faith,MTWR,competent,expert,"511,521,523,531,512","521,512,513"
+Grace,M,beginner,expert,"521,523,512","511"
+Heidi,TWR,expert,competent,531,"511,551,523,552,561"
+Ivan,MTW,expert,none,"542,551,532,571","511,521"
