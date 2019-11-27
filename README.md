@@ -19,10 +19,10 @@ How to choose and use appropriate algorithms and data structures to help solve d
 
 |     | Lab topic   |
 |-----|-------------|
-| 1 | [Computational complexity](labs/lab1.ipynb) |
-| 2 | [Recursive algorithms & data structures](labs/lab2.ipynb) |
-| 3 | [Graphs](labs/lab3.ipynb) | 
-| 4 | [Discrete optimization](labs/lab4.ipynb) | 
+| 1 | [Computational complexity](labs/lab1/lab1.ipynb) |
+| 2 | [Recursive algorithms & data structures](labs/lab2/lab2.ipynb) |
+| 3 | [Graphs](labs/lab3/lab3.ipynb) | 
+| 4 | [Discrete optimization](labs/lab4/lab4.ipynb) | 
 
 ## Course Learning Objectives
 
