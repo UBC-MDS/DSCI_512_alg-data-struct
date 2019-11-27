@@ -4,6 +4,8 @@ How to choose and use appropriate algorithms and data structures to help solve d
 
 ## Schedule
 
+Note: lecture recording videos from the 2019 course offering are available [here](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02OsWy9IduQiSGUSnVGFhm).
+
 | # | Topic | Optional reading/watching |
 |---|-------|---------------------------|
 | 1 | [Time complexity, big O, space complexity](lectures/lecture1.ipynb) | [Introduction to Big O notation](https://www.youtube.com/watch?v=D6xkbGLQesk)  |
