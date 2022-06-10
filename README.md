@@ -8,14 +8,14 @@ Note: lecture recording videos from the 2019 course offering are available [here
 
 | # | Topic | Optional reading/watching |
 |---|-------|---------------------------|
-| 1 | [Time complexity, big O, space complexity](lectures/lecture1.ipynb) | [Introduction to Big O notation](https://www.youtube.com/watch?v=D6xkbGLQesk)  |
-| 2 | [Searching, sorting, hash tables](lectures/lecture2.ipynb) | [Binary search video](https://youtu.be/y62zj9ozPOM?t=1314) - watch until 31:00. |
-| 3 | [Recursive algorithms](lectures/lecture3.ipynb) |   |
-| 4 | [Recursive data structures](lectures/lecture4.ipynb) |  |
-| 5 | [Graphs, graph searches](lectures/lecture5.ipynb) |  [Graph traversals video](https://www.youtube.com/watch?v=bIA8HEEUxZI); brilliant.org on [Graph Theory](https://brilliant.org/wiki/graph-theory/), [Traversals](https://brilliant.org/wiki/traversals/), and [BSTs](https://brilliant.org/wiki/binary-search-trees/) |
-| 6 | [Adjacency matrices, sparse matrices, generators, map/reduce](lectures/lecture6.ipynb) | [StackOverflow post on generators](https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do/231855#231855) |
-| 7 | [Discrete optimization](lectures/lecture7.ipynb) | [Linear programming and discrete optimization with Python using PuLP](https://towardsdatascience.com/linear-programming-and-discrete-optimization-with-python-using-pulp-449f3c5f6e99)  |
-| 8 | [Dynamic programming, Speeding up Python code](lectures/lecture8.ipynb) | [Dynamic programming](http://web.mit.edu/15.053/www/AMP-Chapter-11.pdf) |
+| 1 | [Time complexity, big O, space complexity](lectures/01_complexity-big-O.ipynb) | [Introduction to Big O notation](https://www.youtube.com/watch?v=D6xkbGLQesk)  |
+| 2 | [Searching, sorting, hash tables](lectures/02_searching-sorting-hash.ipynb) | [Binary search video](https://youtu.be/y62zj9ozPOM?t=1314) - watch until 31:00. |
+| 3 | [Recursive algorithms](lectures/03_recursive-algorithms.ipynb) |   |
+| 4 | [Recursive data structures](lectures/04_recursive-data-structures.ipynb) |  |
+| 5 | [Graphs, graph searches](lectures/05_graphs.ipynb) |  [Graph traversals video](https://www.youtube.com/watch?v=bIA8HEEUxZI); brilliant.org on [Graph Theory](https://brilliant.org/wiki/graph-theory/), [Traversals](https://brilliant.org/wiki/traversals/), and [BSTs](https://brilliant.org/wiki/binary-search-trees/) |
+| 6 | [Adjacency matrices, sparse matrices, generators, map/reduce](lectures/06_sparse-matrices.ipynb) | [StackOverflow post on generators](https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do/231855#231855) |
+| 7 | [Discrete optimization](lectures/07_discrete-optimization.ipynb) | [Linear programming and discrete optimization with Python using PuLP](https://towardsdatascience.com/linear-programming-and-discrete-optimization-with-python-using-pulp-449f3c5f6e99)  |
+| 8 | [Dynamic programming, Speeding up Python code](lectures/08_dynamic-programming-vectorization.ipynb) | [Dynamic programming](http://web.mit.edu/15.053/www/AMP-Chapter-11.pdf) |
 
 ## Lab Assignments
 
